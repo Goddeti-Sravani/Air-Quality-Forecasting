@@ -1,4 +1,3 @@
-Air-Quality-Prediction-System
 An Air Quality Prediction System using machine learning is a software application designed to forecast the quality of air based on environmental features such as pollutant levels and weather conditions. It helps in identifying whether the air is "Good" or "Bad", supporting early warnings and public health safety decisions. Here's a breakdown of its components and functionality:
 
 Data Collection and Preprocessing:
